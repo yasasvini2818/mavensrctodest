@@ -4,11 +4,11 @@
     
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example</groupId>
-    <artifactId>MyMavenApp3</artifactId>
+    <artifactId>MyMavensrctodest</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>MyMavenApp3</name>
+    <name>MyMavensrctodest</name>
     <url>http://maven.apache.org</url>
 
     <properties>
